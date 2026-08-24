@@ -36,8 +36,8 @@ end
 task.wait(1)
 
 local Window = Library:CreateWindow({
-    Title = "Abysall Hub",
-    Footer = "dsc.gg/abysallhub",
+    Title = "Ro-Luxury Hub",
+    Footer = "t.me/Roblox_ScriptHunters",
     NotifySide = "Right",
     ShowCustomCursor = false,
     AutoShow = true,
