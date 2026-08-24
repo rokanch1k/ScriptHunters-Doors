@@ -1012,7 +1012,7 @@ Functions.GetRandomCode = function()
 end
 
 local Window = Library:CreateWindow({
-	Title = "Ro-Luxury Hub",
+	Title = "ScriptHunters Doors",
 	Footer = "t.me/Roblox_ScriptHunters",
 	NotifySide = "Right",
 	ShowCustomCursor = false,
